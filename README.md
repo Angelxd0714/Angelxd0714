@@ -4,7 +4,7 @@
 
 Soy un entusiasta del backend y analista de datos con experiencia en Python. Me apasiona la resolución de problemas y el desarrollo de soluciones innovadoras.
 
-![Programador y analista de datos](https://github.com/Angelxd0714/Angelxd0714/blob/main/chica-pelo-rosa-guitarra.jpg)
+![Programador y analista de datos](https://github.com/Angelxd0714/Angelxd0714/blob/main/representacion-3d-nino-jugando-juego-digital.jpg)
 
 - 🔭 Actualmente estoy trabajando en proyectos de análisis de datos utilizando Python y herramientas de visualización como Matplotlib y Seaborn.
 - 🌱 Estoy aprendiendo continuamente sobre nuevas técnicas de análisis de datos y optimización de rendimiento en aplicaciones backend.
