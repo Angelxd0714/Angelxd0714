@@ -15,7 +15,7 @@ Soy un entusiasta del backend y analista de datos con experiencia en Python. Me 
 ## Habilidades y Herramientas
 
 - **Lenguajes:** Python,Typescript,c++
-- **Tecnologías:** SQL, Pandas, NumPy, Matplotlib, Seaborn
+- **Tecnologías:** SQL, Pandas, NumPy, Matplotlib, Seaborn,NoSql,AWS
 - **Entornos:** Jupyter Notebook, VSCode
 
 ## Proyectos Destacados
