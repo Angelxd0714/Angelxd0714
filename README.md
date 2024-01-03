@@ -4,7 +4,7 @@
 
 Soy un entusiasta del backend y analista de datos con experiencia en Python. Me apasiona la resolución de problemas y el desarrollo de soluciones innovadoras.
 
-![Programador y analista de datos]([https://www.freepik.es/vector-gratis/ilustracion-concepto-informe-datos_6195525.htm#query=ciencia%20de%20datos&position=11&from_view=search&track=ais&uuid=4ac2933b-79d8-4875-95ec-d50972d5fcec](https://img.freepik.com/foto-gratis/colorida-ilustracion-hombre-caminando-bosque-hongo-gigante-como-arbol_1340-43904.jpg?w=360&t=st=1704324319~exp=1704324919~hmac=009e01ad7c9b08dacd44584ffda7fb4b34c0cefd91362d1ab98df5c171318eff](https://github.com/Angelxd0714/Angelxd0714/blob/main/chica-pelo-rosa-guitarra.jpg)
+![Programador y analista de datos](https://github.com/Angelxd0714/Angelxd0714/blob/main/chica-pelo-rosa-guitarra.jpg)
 
 - 🔭 Actualmente estoy trabajando en proyectos de análisis de datos utilizando Python y herramientas de visualización como Matplotlib y Seaborn.
 - 🌱 Estoy aprendiendo continuamente sobre nuevas técnicas de análisis de datos y optimización de rendimiento en aplicaciones backend.
