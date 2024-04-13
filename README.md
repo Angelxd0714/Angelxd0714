@@ -1,34 +1,49 @@
-# ¡Hola! 👋 Soy Angel
+<h2 align="left">Hi 👋! My name is Angel and I'm a Back dev </h2>
 
-## Acerca de mí
+###
 
-Soy un entusiasta del backend y analista de datos con experiencia en Python. Me apasiona la resolución de problemas y el desarrollo de soluciones innovadoras.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-![Programador y analista de datos](https://github.com/Angelxd0714/Angelxd0714/blob/main/representacion-3d-nino-jugando-juego-digital.jpg)
+###
 
-- 🔭 Actualmente estoy trabajando en proyectos de análisis de datos utilizando Python y herramientas de visualización como Matplotlib y Seaborn.
-- 🌱 Estoy aprendiendo continuamente sobre nuevas técnicas de análisis de datos y optimización de rendimiento en aplicaciones backend.
-- 👯 Estoy abierto/a a colaborar en proyectos interesantes relacionados con análisis de datos, desarrollo backend o machine learning.
-- 💬 Puedes preguntarme sobre Python, análisis de datos, estructuras de datos, o cualquier cosa relacionada con backend.
-- 📫 Puedes contactarme a través de [angelxd0714@gmail.com] o conectarte conmigo en [https://www.linkedin.com/in/angel-ti/].
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-## Habilidades y Herramientas
+###
 
-- **Lenguajes:** Python,Typescript,c++
-- **Tecnologías:** SQL, Pandas, NumPy, Matplotlib, Seaborn,NoSql,AWS
-- **Entornos:** Jupyter Notebook, VSCode
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+</div>
 
-## Proyectos Destacados
+###
 
-- [SUAP WEB](https://github.com/Angelxd0714/SUAP-APP-WEB) - APLICACION WEB PARA CASOS DE PACIENTES.
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
 
-## Idiomas
+###
 
-- **Español:** Nativo
-- **Inglés:** Intermedio
+<br clear="both">
 
-## Estadísticas de GitHub
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TuUsuario&show_icons=true&theme=radical)
-
-¡Gracias por visitar mi perfil! Si tienes alguna pregunta o sugerencia, ¡no dudes en contactarme!
+###
