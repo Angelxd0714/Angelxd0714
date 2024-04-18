@@ -49,6 +49,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="h[ttps://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg](https://github.com/Angelxd0714/Angelxd0714/blob/main/representacion-3d-nino-jugando-juego-digital.jpg)" alt="Snake animation" />
 
 ###
