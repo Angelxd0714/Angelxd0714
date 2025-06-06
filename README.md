@@ -1,9 +1,13 @@
-# 👨‍💻 **Angel Santibañez** | Desarrollador Backend | Colombia 🇨🇴  
+# 👨‍💻 **Angel Santibañez** | Desarrollador de software | Colombia 🇨🇴  
+
+![Banner de programación](https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif)  
 
 `System.out.println("Transformando café en código eficiente ☕→💻");`  
 
 ## 🚀 **Sobre Mí**  
-Desarrollador backend especializado en arquitecturas escalables con **Spring Boot** y **Django**. Apasionado por crear soluciones robustas con altos estándares de calidad y performance.  
+Desarrollador backend especializado en arquitecturas escalables con **Spring Boot** y **Django**.  
+
+![GIF coding](https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif)
 
 ## 🛠 **Tecnologías Principales**  
 
@@ -46,7 +50,7 @@ Desarrollador backend especializado en arquitecturas escalables con **Spring Boo
 - ✅ Generación de reportes en PDF  
 - ✅ Integración con pasarelas de pago  
 
-### 💳 **Microservicio de Pagos (Spring Boot)**  
+### 💳 **Microservicios de Fiduprevisora (Spring Boot)**  
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)  
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
 
