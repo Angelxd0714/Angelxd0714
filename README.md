@@ -1,28 +1,49 @@
 👋 ¡Hola! Soy Angel, Desarrollador Backend de Colombia 🇨🇴
+"Transformando ideas en código eficiente"
+
 🚀 Sobre mí
-Soy un apasionado desarrollador backend con experiencia en construir sistemas escalables y eficientes. Me especializo en tecnologías como Java/Spring, Python/Django y AWS, siempre buscando aprender y aplicar las mejores prácticas de desarrollo.
+Desarrollador backend especializado en arquitecturas escalables con Spring Boot, Django y AWS. Apasionado por la optimización y las buenas prácticas.
 
-🛠 Tecnologías y Herramientas
-Lenguajes y Frameworks
-<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="Spring" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" alt="Django" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/> </p>
-Bases de Datos & Cloud
-<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/> </p>
-Otras Herramientas
-<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/> </p>
-📊 Estadísticas
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Angelxd0714&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="Estadísticas de GitHub" height="160"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Angelxd0714&layout=compact&theme=dracula&hide_border=true" alt="Lenguajes más usados" height="160"/> </div>
-💼 Proyectos Destacados
-[Nombre del Proyecto] - Descripción breve (ej: "API escalable para gestión de usuarios con Spring Boot y AWS")
+🛠 Stack Tecnológico
+🔹 Lenguajes
+<div align="left"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="30"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="30"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="30"/> </div>
+🔹 Frameworks
+<div align="left"> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" height="30"/> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" height="30"/> </div>
+🔹 Cloud & DevOps
+<div align="left"> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" height="30"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="30"/> </div>
+📊 Estadísticas GitHub
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Angelxd0714&show_icons=true&theme=radical" height="180"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Angelxd0714&theme=radical" height="180"/> </div>
+🔥 Proyectos Destacados
+🚀 API Rest con Spring Boot
+Spring
+Microservicios escalables con JWT y AWS RDS
 
-[Nombre del Proyecto] - Descripción breve
+🐍 Sistema con Django
+Django
+Arquitectura MVC con PostgreSQL y Docker
 
-[Nombre del Proyecto] - Descripción breve
+📫 Conéctate conmigo
+<div align="left"> <a href="mailto:tu-email@example.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30"/> </a> <a href="https://linkedin.com/in/tu-perfil"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/> </a> <a href="https://discord.com/users/tu-id"> <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="30"/> </a> </div>
+💡 Código en Acción
+java
+// Ejemplo de Spring Boot
+@RestController
+public class HelloWorldController {
+    @GetMapping("/hello")
+    public String sayHello() {
+        return "¡Hola desde mi GitHub! 👋";
+    }
+}
+<div align="center"> <img src="https://komarev.com/ghpvc/?username=Angelxd0714&color=blueviolet&style=flat-square" alt="Visitas"/> <img src="https://img.shields.io/github/last-commit/Angelxd0714/Angelxd0714?color=purple&label=Última%20actualización" alt="Último commit"/> </div>
+Snake animation
 
-(Puedes añadir enlaces directos a repositorios o demos)
+⭐️ "El software es como el arte: debe ser elegante por dentro y funcional por fuera."
 
-📫 Contáctame
-¡Me encantaría conectar! Puedes encontrarme en:
+(Personaliza con tu propia frase inspiradora)
 
-<p align="left"> <a href="mailto:tuemail@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/> </a> <a href="https://linkedin.com/in/tuperfil" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="https://discord.com/users/tuid" target="_blank"> <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/> </a> </p>
-⭐️ "Escribe código como si la persona que lo mantendrá después fuera un psicópata que sabe dónde vives." - John Woods
-![Última actualización](https://img.shields.io/github/last-commit/Angelxd0714/Angelxd0714?label=Última%20actualización&style=flat-square)
+✨ ¡Gracias por visitar mi perfil! ✨
+
+(Puedes añadir un GIF animado relacionado con programación si lo deseas)
+
+markdown
+![GIF](https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif
